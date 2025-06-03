@@ -22,7 +22,7 @@ This is a lightweight custom **Web Browser** built using **Python** and **PyQt5*
 Follow these steps to run the project locally:
 
 ```bash
-git clone https://github.com/<your-username>/python-web-browser.git
+git clone https://github.com/khushi-tiwari-tech/python-web-browser.git
 cd python-web-browser
 pip install PyQt5
 python browser.py
