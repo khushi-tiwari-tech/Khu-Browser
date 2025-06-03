@@ -25,5 +25,5 @@ Follow these steps to run the project locally:
 git clone https://github.com/khushi-tiwari-tech/Khu-Browser.git
 cd Khu-Browser
 pip install PyQt5
-python Khu-Browser.py
+python KhuuBrowser.py
 
